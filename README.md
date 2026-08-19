@@ -64,4 +64,4 @@ Azure SQL Database (CostData table + views)
 
 ## Author
 
-Jitesh Shivanand Bagale — final-year IT student, Programming Analyst Trainee (Azure Data Engineering) at Cognizant.
+Jitesh Shivanand Bagale 
