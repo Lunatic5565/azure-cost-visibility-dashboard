@@ -55,10 +55,6 @@ Azure SQL Database (CostData table + views)
 
 > Note: `local.settings.json` (containing connection strings/keys) and the `.pbix` Power BI file are excluded from this repo for security and size reasons. Dashboard screenshots are included below instead.
 
-## Dashboard
-
-*(Add a screenshot of the final Power BI dashboard here once it's polished.)*
-
 ## What I'd Improve Next
 
 - Add historical backfill for cost data older than the ingestion start date
